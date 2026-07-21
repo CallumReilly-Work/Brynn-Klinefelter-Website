@@ -345,7 +345,7 @@ ul{ padding: 0; list-style: none; }
   margin-left: -50vw;
   margin-right: -50vw;
   aspect-ratio: 16/8;
-  object-fit: cover;
+  object-fit: contain;
   background: var(--ink);
 }
 
