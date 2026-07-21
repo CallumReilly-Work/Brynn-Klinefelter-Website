@@ -349,6 +349,18 @@ ul{ padding: 0; list-style: none; }
   background: var(--ink);
 }
 
+.case-hero__image--natural{
+  width: auto;
+  max-width: 100%;
+  position: static;
+  left: auto;
+  right: auto;
+  margin-left: auto;
+  margin-right: auto;
+  aspect-ratio: auto;
+  display: block;
+}
+
 .stat-row{
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
